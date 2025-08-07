@@ -1,5 +1,7 @@
 🍽️ **Glucose & Microbiome Insights Dashboard**
+
 📊 **Project Overview**
+
 This comprehensive Power BI project explores how metabolic markers, glucose responses, microbiome composition, and macronutrient intake interact to influence overall health. Built for a datathon, it integrates continuous glucose monitoring (CGM),
 biometric lab results, gut microbiome data, and lifestyle inputs to enable personalized health insights. The dashboard suite delivers both population-wide trends and subject-specific analysis to drive precision nutrition and metabolic optimization.
 
